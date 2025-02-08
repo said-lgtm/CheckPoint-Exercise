@@ -1,0 +1,5 @@
+Script started on 2025-02-08 10:48:02-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="210" LINES="41"]
+                                                                                                                                                                                                                  ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m[36mexit[39m[27m
+[K[K[A[4C[27m[36me[27m[36mx[27m[36mi[27m[36mt[39m[1B[K[A[8C[?1l>[?2004l[1B
+Script done on 2025-02-08 10:48:22-05:00 [COMMAND_EXIT_CODE="0"]
